@@ -8,3 +8,5 @@ Steps followed: <br />
 PCA is implemented for feature reduction. <br />
 K-Means clustering is done to obtain 13 clusters. <br />
 Test images are then identified using clustering or projecting on the feature vector to determine faces. <br />
+<br />
+**Face Recognition.m** has the source code.
